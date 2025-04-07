@@ -1,4 +1,3 @@
-<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -319,4 +318,4 @@ Of course, it is not a health related attribute, but a great many things are not
     }
   ]
 }
-</script>
+
